@@ -2,32 +2,6 @@
 
 I do not speak Kotlin. I shall speak Kotlin
 
-## Breakdown
-
-- [x] Part 1: Introducing Kotlin                                                        232
-    - [x] Chapter 1: Kotlin: What and why                                                22
-    - [x] Chapter 2: Kotlin basics                                                       35
-    - [x] Chapter 3: Defining and calling functions                                      29
-    - [x] Chapter 4: Classes, objects and interfaces                                     44
-    - [x] Chapter 5: Programming with lambdas                                            27     6min/page
-    - [x] Chapter 6: Working with collections and sequences                              25     5.4min/page
-    - [x] Chapter 7: Working with nullable values                                        24     2.7min/page
-    - [x] Chapter 8: Basic types, collections and arrays                                 24     3.3min/page
-
-- [x] Part 2: Embracing Kotlin                                                          158
-    - [x] Chapter 9: Operator overloading and other conventions                          32     5min/page
-    - [x] Chapter 10: Higher-order functions                                             26     3.4min/page
-    - [x] Chapter 11: Generics                                                           37     4.5min/page
-    - [x] Chapter 12: Annotations and reflection                                         31     4min/page
-    - [x] Chapter 13: DSL construction                                                   30     3.2min/page
-
-- [~] Part 3: Concurrent Programming with Coroutines and Flows                          112
-    - [x] Chapter 14: Coroutines                                                         25     4min/page
-    - [x] Chapter 15: Structured concurrency                                             23     4min/page
-    - [x] Chapter 16: Flows                                                              25     4min/page
-    - [x] Chapter 17: Flow operators                                                     14     4.7min/page
-    - [~] Chapter 18: Error handling and testing                                         23     1t 30
-
 ## Chapter 1: Kotlin: What and why
 
 - Pragmatic, concise, safe, interoperable
